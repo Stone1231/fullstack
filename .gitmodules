@@ -1,0 +1,9 @@
+[submodule "django-be"]
+	path = django-be
+	url = https://github.com/Stone1231/django-be.git
+[submodule "ng-fe"]
+	path = ng-fe
+	url = https://github.com/Stone1231/ng-fe.git
+[submodule "core-be"]
+	path = core-be
+	url = https://github.com/Stone1231/core-be.git

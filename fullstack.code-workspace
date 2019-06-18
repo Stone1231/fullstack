@@ -1,0 +1,14 @@
+{
+	"folders": [
+        {
+            "path": "core-be"
+        },
+        {
+            "path": "ng-fe"
+        },
+        {
+            "path": "django-be"
+        }
+    ],
+    "settings": {}
+}
