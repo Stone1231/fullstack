@@ -9,7 +9,7 @@ git submodule status
 
 ### core-be：ASP.NET core web api
 
-* ORM init
+* ORM init  
 dotnet ef migrations add <migration_name>  
 dotnet ef database update  
 
@@ -20,7 +20,7 @@ dotnet ef database update
 
 * pip install -r requirements.txt
 
-* ORM init
+* ORM init  
 python manage.py makemigrations  
 python manage.py migrate  
 
