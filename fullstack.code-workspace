@@ -8,6 +8,9 @@
         },
         {
             "path": "core-be"
+        },
+        {
+            "path": "go-be"
         }
     ],
     "settings": {}
