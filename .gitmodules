@@ -7,3 +7,6 @@
 [submodule "core-be"]
 	path = core-be
 	url = https://github.com/Stone1231/core-be.git
+[submodule "go-be"]
+	path = go-be
+	url = https://github.com/Stone1231/go-be.git
