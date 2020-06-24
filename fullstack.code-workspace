@@ -1,17 +1,20 @@
 {
-	"folders": [
-        {
-            "path": "ng-fe"
-        },
-        {
-            "path": "django-be"
-        },
-        {
-            "path": "core-be"
-        },
-        {
-            "path": "go-be"
-        }
-    ],
-    "settings": {}
+  "folders": [
+    {
+      "path": "ng-fe"
+    },
+    {
+      "path": "django-be"
+    },
+    {
+      "path": "core-be"
+    },
+    {
+      "path": "go-be"
+    },
+    {
+      "path": "react-fe"
+    }
+  ],
+  "settings": {}
 }

@@ -10,3 +10,6 @@
 [submodule "go-be"]
 	path = go-be
 	url = https://github.com/Stone1231/go-be.git
+[submodule "react-fe"]
+	path = react-fe
+	url = https://github.com/Stone1231/react-fe.git
