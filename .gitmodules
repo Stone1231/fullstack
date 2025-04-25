@@ -13,3 +13,6 @@
 [submodule "ng-fe"]
 	path = ng-fe
 	url = https://github.com/Stone1231/ng-fe.git
+[submodule "vue-fe"]
+	path = vue-fe
+	url = https://github.com/stone1231/vue-fe.git

@@ -40,3 +40,7 @@ go run main.go
   .vs-code/launch.json **userDataDir**
 
 - npm install
+
+### vue-fe：VUE3
+- npm install
+- npm run dev
